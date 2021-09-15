@@ -13,5 +13,28 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Beginner">
+      <UniqueIdentifier>{3ec6e969-1d77-41a6-90dd-7cc3e70ca4c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Beginner\CompletedTasks">
+      <UniqueIdentifier>{0241fe61-a3cf-46f5-9f10-a89ec8bca9d1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BeginnerTask1.cpp">
+      <Filter>Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="BeginnerTask2.cpp">
+      <Filter>Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="BeginnerTask3.cpp">
+      <Filter>Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="BeginnerTask4.cpp">
+      <Filter>Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="BeginnerTask5.cpp">
+      <Filter>Beginner</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
